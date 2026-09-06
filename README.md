@@ -1,6 +1,6 @@
-# Banking System
+Banking System
 
-## Description
+Description
 
 This project is a banking system developed in Python using Object-Oriented Programming (OOP) principles and SQLite for data storage.
 
@@ -13,12 +13,12 @@ It allows users to:
 * Transfer money between accounts
 * Store customer, account, and transaction information in a database
 
-## Technologies
+Technologies
 
 * Python
 * SQLite3
 
-## Concepts Practised
+Concepts Practised
 
 * Classes and Objects
 * Encapsulation
@@ -27,7 +27,7 @@ It allows users to:
 * Abstraction
 * SQLite database integration
 
-## Current Status
+Current Status
 
 The project is functional and continues to be improved. Current work includes:
 
@@ -36,18 +36,18 @@ The project is functional and continues to be improved. Current work includes:
 * Improved balance updates after transactions
 **Note: database_backfilling.py file was used to fill the database with foreign keys for existing data, but now it is replaced by improvements that automatically assign the correct foreign keys as customers and accounts are registered.
 
-##Potential Future improvements
+Potential Future improvements
 
 * Adding more validation and error handling
 * Showing deposits, withdrawals, and transfers as a bank statement
 
-## How to Run
+How to Run
 
 1. Clone the repository.
 2. Open the project in PyCharm (or another Python IDE).
 3. Run the main Python file (main.py).
 
-## Author
+Author
 
 This project documents my progress in learning Python, Object-Oriented Programming, and database integration, and software development.
 
